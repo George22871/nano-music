@@ -1,0 +1,38 @@
+{
+  "name": "musicbot",
+  "version": "4.8.0",
+  "description": "✈ Join Discord: https://discord.gg/PcUVWApWN3 👌",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "better-erela.js-spotify": "^1.2.3",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "delay": "^4.4.0",
+    "discord-api-types": "^0.26.0",
+    "discord.js": "^13.4.0",
+    "dotenv": "^16.4.5",
+    "erela.js": "github:Adivise/erela.js-custom",
+    "erela.js-apple": "^1.2.6",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.4",
+    "figlet": "^1.5.0",
+    "youtube-sr": "^4.1.9"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nanotect",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adivise/NanoSpace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adivise/NanoSpace/issues"
+  },
+  "homepage": "https://github.com/Adivise/NanoSpace#readme",
+  "devDependencies": {
+    "node": "^17.3.0"
+  }
+}

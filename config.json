@@ -1,0 +1,14 @@
+{
+  "PREFIX": "sn",
+  "TOKEN": "xx",
+  "OWNER_ID": "455340951473487873",
+  "CLIENT_ID": "892833092841115678",
+  "GUILD_ID": "736138337865302067",
+  "NODES": [
+    {
+      "host": "lava.link",
+      "port": 80,
+      "password": "ggkinkop"
+    }
+  ]
+}
